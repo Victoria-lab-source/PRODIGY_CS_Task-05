@@ -1,0 +1,1 @@
+it[Key.space]commit[Key.space]-a[Key.enter][Key.enter][Key.ctrl]o[Key.ctrl]xx[Key.ctrl]x[Key.ctrl]xxxx[Key.cmd]c[Key.cmd]v[Key.enter][Key.cmd]c[Key.cmd]v[Key.enter][Key.cmd]c[Key.cmd]v[Key.enter][Key.ctrl]c[Key.cmd]c[Key.cmd]v[Key.enter][Key.cmd]c[Key.cmd]v[Key.enter]
